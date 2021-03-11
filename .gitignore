@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+
+# python
+local_config.py
+__pycache__/
+
+*.log
+ilog/
+
+*.db
+
+pip.conf
+sources.list
